@@ -1,1 +1,1 @@
-Reposit;orio com os projetos do curso Fundamentos Python para Análise de Dados da Data Sciece Academy
+Repositório com os projetos do curso Fundamentos Python para Análise de Dados da Data Sciece Academy
